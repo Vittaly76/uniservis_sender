@@ -9,8 +9,8 @@ r= post_request = session.post(url, {
 #     'backUrl': 'https://moscow.hh.ru/',
      'AUTH_FORM': 'Y',
      'TYPE': 'AUTH',
-     'USER_LOGIN': '+7(916)120-02-15',
-     'USER_PASSWORD': 'zlorgw',
+     'USER_LOGIN': '+7(***)***-**-**',
+     'USER_PASSWORD': '***',
 #     '_xsrf':_xsrf,
 #     'remember':'yes',
   })
